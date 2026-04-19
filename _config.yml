@@ -1,5 +1,5 @@
-theme: jekyll-theme-data-analyst
+theme: jekyll-theme-minimal
 title: MALAIKA AROOJ
 description: Data Analyst Portfolio
-logo: /my pfp.jpeg
+logo: "/my pfp.jpeg"
 show_downloads: false
