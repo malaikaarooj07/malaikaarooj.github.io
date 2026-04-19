@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pfp.avif" alt="Malaika Arooj" width="200" style="border-radius: 50%;">
+</p>
 # 📊 Data Analyst Portfolio – [MALAIKA AROOJ]
 
 Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
