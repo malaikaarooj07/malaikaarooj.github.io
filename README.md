@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – [Your Name]
+# 📊 Data Analyst Portfolio – [MALAIKA AROOJ]
 
 Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
@@ -49,8 +49,8 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 🎓 Education
 
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
+- Bachelor's in COMPUTER SCIENCE | [FATIMA JINNAH WOMEN UNIVERSITY] | Oct 2024-ongoing | 
+- High School., Maths | FG Public School | June 2020 – Jan 2022 | Score: 85%
 
 ---
 
@@ -71,7 +71,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: [Your Email]  
+- 📧 Email: [aroojmalaika75@gmail.com]  
 - 🔗 LinkedIn: [LinkedIn Profile]  
 - 💻 GitHub: [GitHub Portfolio]
 
