@@ -1,17 +1,17 @@
 ---
-layout: default
+layout: page
+title: home
 ---
 # 📊 Portfolio – [MALAIKA AROOJ]
 
 Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
----
 
 ## 👤 Profile Summary
 
 My name is Malaika Arooj and I am a student of BCS IV (A) at Fatima Jinnah Women University. Technology has always interested me, especially the way it can be used to solve everyday challenges. Throughout my computer science journey, I have worked on small console-based programs and simple websites, which has been both engaging and a great learning experience. I enjoy collaborating with others and believe teamwork leads to more creative and effective solutions.
 
----
+
 
 ## 🧠 Skills
 
@@ -19,7 +19,7 @@ My name is Malaika Arooj and I am a student of BCS IV (A) at Fatima Jinnah Women
 **Tools & Visualization:** Excel, Google Sheets, Jupyter Notebook  
 **Databases:** MySQL. 
 
----
+
 
 ### 🔍 LinkedIn Job Trends Analyzer  
 *Time Period*
@@ -30,14 +30,14 @@ My name is Malaika Arooj and I am a student of BCS IV (A) at Fatima Jinnah Women
 
 ![LinkedIn Dashboard](image1.png)
 
----
+
 
 ## 🎓 Education
 
 - Bachelor's in COMPUTER SCIENCE | [FATIMA JINNAH WOMEN UNIVERSITY] | Oct 2024-ongoing | 
 - High School., Maths | FG Public School | June 2020 – Jan 2022 | Score: 85%
 
----
+
 
 ## 📜 Certifications & Awards
 
@@ -47,13 +47,13 @@ Secured 1st position in Inter-School English story Writing Competition, 2018.
 Secured 1st position in Inter-School English Essay Writing Competition, 2021.
 
 
----
+
 
 ## ❤️ Volunteer Experience
 
 Volunteered in fundraising campaigns and helped raise funds for charitable causes.Actively participated in fundraising activities to support community welfare projects.
 
----
+
 
 ## 📬 Let’s Connect!
 
@@ -61,11 +61,10 @@ Volunteered in fundraising campaigns and helped raise funds for charitable cause
 - 🔗 LinkedIn: [www.linkedin.com/in/malaika-arooj-824959354]  
 - 💻 GitHub: [https://github.com/malaikaarooj07]
 
----
+
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.---
-layout: default
----
+
 
 
 
