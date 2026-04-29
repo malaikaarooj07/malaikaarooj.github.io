@@ -1,42 +1,23 @@
 
 # 📊 Data Analyst Portfolio – [MALAIKA AROOJ]
 
-Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
 
 ---
 
 ## 👤 Profile Summary
 
-- 2 years of academic experience in data analysis, with expertise in data cleaning, transformation, and wrangling using **Python (Pandas, NumPy)** and **SQL**
-- Skilled in creating **interactive dashboards** using Tableau and Power BI to communicate insights and support business decisions
-- Strong knowledge of statistical analysis and forecasting techniques
-- Experience working with cross-functional teams in agile environments
+My name is Malaika Arooj and I am a student of BCS IV (A) at Fatima Jinnah Women University. Technology has always interested me, especially the way it can be used to solve everyday challenges. Throughout my computer science journey, I have worked on small console-based programs and simple websites, which has been both engaging and a great learning experience. I enjoy collaborating with others and believe teamwork leads to more creative and effective solutions.
 
 ---
 
 ## 🧠 Skills
 
-**Languages:** Python, R, SQL  
-**Tools & Visualization:** Excel, Looker, Tableau, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, BigQuery  
-**Cloud Platforms:** Google Cloud Platform (GCP)
+**Languages:** Python, C++, Java  
+**Tools & Visualization:** Excel, Google Sheets, Jupyter Notebook  
+**Databases:** MySQL. 
 
 ---
-
-## 💼 Professional Experience
-
-**[Company Name], [Location] — [Position]**  
-*Time Period*
-
-- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
-- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
-- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
-- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
-- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
-
----
-
-## 📈 Featured Project
 
 ### 🔍 LinkedIn Job Trends Analyzer  
 *Time Period*
@@ -46,6 +27,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
 
 ![LinkedIn Dashboard](/images/image1.png)
+
 ---
 
 ## 🎓 Education
@@ -57,24 +39,25 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 📜 Certifications & Awards
 
-- Google Associate Data Practitioner Certificate  
-- Best Student Award – Classification of Healthcare Documents  
-- 4th Place – Data Analytics Hackathon (University-level)
+Recognized for outstanding performance secured 1st position in [Table Tennis] during Annual Sports Gala, [2023]
+Achieved 3rd position in [Misali Tarbiyati Course], organized by [Jamia Salihaat].
+Secured 1st position in Inter-School English story Writing Competition, 2018.
+Secured 1st position in Inter-School English Essay Writing Competition, 2021.
+
 
 ---
 
 ## ❤️ Volunteer Experience
 
-- Conducted weekend programming workshops for underprivileged high school students
-- Coordinated logistics for fundraising race events supporting children’s education
+Volunteered in fundraising campaigns and helped raise funds for charitable causes.Actively participated in fundraising activities to support community welfare projects.
 
 ---
 
 ## 📬 Let’s Connect!
 
 - 📧 Email: [aroojmalaika75@gmail.com]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
-- 💻 GitHub: [GitHub Portfolio]
+- 🔗 LinkedIn: [www.linkedin.com/in/malaika-arooj-824959354]  
+- 💻 GitHub: [https://github.com/malaikaarooj07]
 
 ---
 
